@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #001F3F; /* Azul oscuro Pepsi */
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+  background-color: #003C8A; /* Azul Pepsi */
+    text-align: center;
+    padding: 20px;
+}
+
+header img {
+    width: 100px;
+}
+
+h1 {
+  color: #E21B26; /* Rojo Pepsi */
+    margin-top: 10px;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    background-color: rgba(255, 255, 255, 0.1);
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 700px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+  background-color: #005CBF; /* Azul más brillante */
+    margin: 5px;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+a {
+  color: #FFD700; /* Dorado */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+  color: #E21B26; /* Rojo Pepsi al pasar el ratón */
+}
+
+footer {
+    background-color: #003C8A;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.9em;
+    color: #ccc;
+}
